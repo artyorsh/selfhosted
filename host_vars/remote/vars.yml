@@ -1,0 +1,22 @@
+---
+fail2ban_service_enabled: true
+
+ufw_service_enabled: true
+
+ssh_service_enabled: true
+
+wireguard_service_enabled: false
+
+authelia_service_enabled: true
+
+bunkerweb_service_enabled: true
+
+gitea_service_enabled: false
+
+rssbridge_service_enabled: true
+
+freshrss_service_enabled: true
+
+fireflyiii_service_enabled: true
+
+sonarr_service_enabled: false
